@@ -1,7 +1,5 @@
-# Trump vs. Harris Based on Reddit Comments
+# Sentiment Analysis on 2024 US Election Reddit Data
 Analyze Reddit comments using NLP to predict the potential winner of the US 2024 election
-
-<img src="https://github.com/user-attachments/assets/da68bd0a-12d9-4e43-ab37-9445f28642e3" width="500">
 
 ## Description
 
